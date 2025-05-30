@@ -5,6 +5,7 @@
  *
  * @returns {boolean}
  */
+
 function checkPassword(password) {
   // eslint-disable-next-line
   const validPasswordRegex =
